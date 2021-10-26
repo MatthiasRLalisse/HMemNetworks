@@ -1,3 +1,0 @@
-2
-_is_inside	0
-_is_neighbor	1
